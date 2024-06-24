@@ -63,12 +63,15 @@ The model is designed to reduce ring artifacts in medical images and is based on
 
 ![Sinogram Domain](Assets/Sinogram_Domain.png)
 
+#### Reconstructed Image
+
 <div style="display: flex; justify-content: space-around;">
      <img src="Assets/Input_Image.png" alt="Input Image" width="33%" />
     <img src="Assets/Expected_Output_image.png" alt="Expected Output Image" width="32%" />
   <img src="Assets/Output_Image.png" alt="Output Image" width="33%" />
 </div>
 
+#### Noise Reduction
 
 <div style="display: flex; justify-content: space-around;">
      <img src="Assets/Initial_Noise.png" alt="Initial Noise" width="49%" />
